@@ -4,7 +4,7 @@ A reusable, free-first publishing system for producing professional educational 
 
 ## Project status
 
-Repository initialized. The system architecture, templates, build pipelines, and quality checks are being developed on a dedicated branch before review.
+The repository is currently at the architecture/documentation stage. No executable publishing templates, schemas, scripts, tests, or build workflows have been implemented yet. See [PROJECT_CONTEXT.md](PROJECT_CONTEXT.md) for the full project handover, repository audit, decisions, risks, and roadmap.
 
 ## Approved direction
 
